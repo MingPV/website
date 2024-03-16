@@ -9,7 +9,7 @@ function HomeAboutMe() {
 
     return (
         <div>
-            <h1 style={{ color: 'red', fontSize: 80, fontFamily: 'initial' }}>Welcome,</h1>
+            <h1 style={{ color: 'white', fontSize: 80, fontFamily: 'initial' }}>Welcome,</h1>
             <p style={{ color: 'white', fontSize: 15, fontFamily: 'initial', paddingLeft: 15 }}> Hello, I am Ming, a computer engineering student from Thailand </p>
             <p style={{ color: 'white', fontSize: 13, fontFamily: 'initial', paddingLeft: 15 }}> I'm studying at Chulalongkorn University and I'm interested in Web Development and Game Development </p>
             <div style={{ paddingLeft: 10 }}>
